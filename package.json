@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "coredump": "./bin/coredump"
+    "coredump": "./bin/coredump",
+    "coredump.gdb": "./bin/coredump.gdb"
   }
 }
