@@ -1,4 +1,4 @@
 #!/bin/bash
 
 gdb_file=`dirname $0`/coredump.gdb
-gdb --batch --command=$gdb_file -p $1
+sudo gdb --batch --command=$gdb_file -p $1
