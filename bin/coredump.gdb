@@ -1,0 +1,2 @@
+gcore core
+detach
